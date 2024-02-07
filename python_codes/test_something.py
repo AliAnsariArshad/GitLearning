@@ -14,11 +14,3 @@ print(str7)
 
 str5 = str1 + " " + str4.format("this is going to be a good day!!!")
 print(str5)
-
-str9 = "added in branch four"
-print(str9)
-
-str8 = "hello {0}, learning git"
-print(str8.format("Arshad"))
-
-str10 = "successfully merged"
